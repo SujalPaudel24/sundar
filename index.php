@@ -109,22 +109,21 @@
           <!-- // Item -->
           <!-- Item -->
           <div class="item item-2">
-            <div class="img-fill">
+            
                 <div class="text-content">
                   <h6>We are here to support you</h6>
                   <h4>Become<br>Your Best</h4>
-                  <video src="your-video-url-here" autoplay muted loop></video>
+                  <video src="assets/images/video.mp4" autoplay muted loop></video>
 
                   <!-- <p>You are allowed to use this template for your company websites. You are NOT allowed to re-distribute this template ZIP file on any template download website. Please contact TemplateMo for more detail.</p> -->
 
                   <a href="services.html" class="filled-button">our services</a>
                 </div>
-            </div>
+            
           </div>
           <!-- // Item -->
           <!-- Item -->
           <div class="item item-3">
-            <div class="img-fill">
                 <div class="text-content">
                   <h6>We have a solid </h6>
                   <h4>Team<br>&amp; Infrastructure</h4>
@@ -135,8 +134,7 @@
 
                   <a href="about.html" class="filled-button">learn more</a>
                 </div>
-            </div>
-          </div>
+               </div>
           <!-- // Item -->
         </div>
     </div>
