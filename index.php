@@ -91,21 +91,29 @@
     <!-- Page Content -->
     <!-- Banner Starts Here -->
     <div class="main-banner header-text" id="top">
+      
         <div class="Modern-Slider">
           <!-- Item -->
-          <div class="item item-1">
-            <div class="img-fill">
-                <div class="text-content">
-                  <h6>We are ready to help you!!</h6>
-                  <h4>Become Better<br>Driver</h4>
+          <div class="img-fill">
+  <video autoplay loop muted style="width:100%;">
+    <source src="video.mp4" type="video/mp4">
+    <source src="your-video.webm" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+
+  
+  <div class="text-content">
+
+
+                  <h6 style="text-align: left;width: 75%;margin-bottom:20px; color:yellow;">We are ready to help you!!</h6>
+                  <h4 style="text-align: left;width: 75%;margin-bottom:30px;color:yellow;">Become Better<br>Driver</h4>
 
                   <!-- <p>This finance HTML template is 100% free of charge provided by TemplateMo for everyone. This is a multiple-page version with different HTML pages. <a href="one-page.html">One-page version</a> is available as of 2021 February.</p> -->
 
 
                   <a href="contact.html" class="filled-button">Contact Us</a>
                 </div>
-            </div>
-          </div>
+</div>
           <!-- // Item -->
           <!-- Item -->
           <div class="item item-2">
